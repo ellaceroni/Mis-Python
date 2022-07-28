@@ -1,0 +1,5 @@
+numberOfSlices = input("How many slices of pizza are in a party size pizza? ")
+numberOfGuests = input("How many guests are attending the pizza party? ")
+slicesPerGuest = int(numberOfSlices) // int(numberOfGuests)
+remainder = int(numberOfSlices) % int(numberOfGuests)
+print("There are " + str(slicesPerGuest) + " slices per person and " + str(remainder) + " slices left.")
