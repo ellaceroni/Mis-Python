@@ -1,0 +1,7 @@
+Lab Results: 
+Average = 10.07
+Standard Deviation = 0.61
+T-Score = 0.45Lab Results: 
+Average = 10.07
+Standard Deviation = 0.61
+T-Score = 0.45
